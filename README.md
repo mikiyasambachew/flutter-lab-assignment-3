@@ -4,8 +4,8 @@
 
 | Field        | Value               |
 |-------------|---------------------|
-| **Name**    | Lamesgin Desalegn   |
-| **ID**      | UGR/0690/15         |
+| **Name**    | Mikiyas Ambachew   |
+| **ID**      | UGR/3008/15         |
 | **Section** | 3                   |
 | **Course**  | App Development     |
 
